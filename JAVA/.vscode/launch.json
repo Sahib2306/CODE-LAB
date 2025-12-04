@@ -1,0 +1,280 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "BankManagementSystem",
+            "request": "launch",
+            "mainClass": "BankManagementSystem",
+            "projectName": "JAVA_6d7bcd6f"
+        },
+        {
+            "type": "java",
+            "name": "BankManagementSystem",
+            "request": "launch",
+            "mainClass": "PROJECTS.BankManagementSystem",
+            "projectName": "JAVA_6d7bcd6f"
+        },
+        {
+            "type": "java",
+            "name": "ZombieGame",
+            "request": "launch",
+            "mainClass": "ZombieGame",
+            "projectName": "JAVA_6d7bcd6f"
+        },
+        {
+            "type": "java",
+            "name": "MethodOverloading",
+            "request": "launch",
+            "mainClass": "MethodOverloading",
+            "projectName": "JAVA_6d7bcd6f"
+        },
+        {
+            "type": "java",
+            "name": "ListArray",
+            "request": "launch",
+            "mainClass": "ListArray",
+            "projectName": "JAVA_6d7bcd6f"
+        },
+        {
+            "type": "java",
+            "name": "VariableArguments",
+            "request": "launch",
+            "mainClass": "VariableArguments",
+            "projectName": "JAVA_6d7bcd6f"
+        },
+        {
+            "type": "java",
+            "name": "SmartElevator",
+            "request": "launch",
+            "mainClass": "SmartElevator",
+            "projectName": "JAVA_6d7bcd6f"
+        },
+        {
+            "type": "java",
+            "name": "BillGenerator",
+            "request": "launch",
+            "mainClass": "BillGenerator",
+            "projectName": "JAVA_6d7bcd6f"
+        },
+        {
+            "type": "java",
+            "name": "loopingPractice",
+            "request": "launch",
+            "mainClass": "loopingPractice",
+            "projectName": "JAVA_6d7bcd6f"
+        },
+        {
+            "type": "java",
+            "name": "Ecommerce",
+            "request": "launch",
+            "mainClass": "Ecommerce",
+            "projectName": "JAVA_6d7bcd6f"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Arrays",
+            "request": "launch",
+            "mainClass": "Arrays",
+            "projectName": "JAVA_6d7bcd6f"
+        },
+        {
+            "type": "java",
+            "name": "ArmstrongNumber",
+            "request": "launch",
+            "mainClass": "ChatGpt.ArmstrongNumber",
+            "projectName": "JAVA_6d7bcd6f"
+        },
+        {
+            "type": "java",
+            "name": "PalindromeCheck",
+            "request": "launch",
+            "mainClass": "ChatGpt.PalindromeCheck",
+            "projectName": "JAVA_6d7bcd6f"
+        },
+        {
+            "type": "java",
+            "name": "PrimeNumber",
+            "request": "launch",
+            "mainClass": "ChatGpt.PrimeNumber",
+            "projectName": "JAVA_6d7bcd6f"
+        },
+        {
+            "type": "java",
+            "name": "Q1",
+            "request": "launch",
+            "mainClass": "ChatGpt.Q1",
+            "projectName": "JAVA_6d7bcd6f"
+        },
+        {
+            "type": "java",
+            "name": "Q2",
+            "request": "launch",
+            "mainClass": "ChatGpt.Q2",
+            "projectName": "JAVA_6d7bcd6f"
+        },
+        {
+            "type": "java",
+            "name": "Q3",
+            "request": "launch",
+            "mainClass": "ChatGpt.Q3",
+            "projectName": "JAVA_6d7bcd6f"
+        },
+        {
+            "type": "java",
+            "name": "ReversedNum",
+            "request": "launch",
+            "mainClass": "ChatGpt.ReversedNum",
+            "projectName": "JAVA_6d7bcd6f"
+        },
+        {
+            "type": "java",
+            "name": "SumDigits",
+            "request": "launch",
+            "mainClass": "ChatGpt.SumDigits",
+            "projectName": "JAVA_6d7bcd6f"
+        },
+        {
+            "type": "java",
+            "name": "Conditional",
+            "request": "launch",
+            "mainClass": "Conditional",
+            "projectName": "JAVA_6d7bcd6f"
+        },
+        {
+            "type": "java",
+            "name": "Input",
+            "request": "launch",
+            "mainClass": "Input",
+            "projectName": "JAVA_6d7bcd6f"
+        },
+        {
+            "type": "java",
+            "name": "JavaMethods",
+            "request": "launch",
+            "mainClass": "JavaMethods",
+            "projectName": "JAVA_6d7bcd6f"
+        },
+        {
+            "type": "java",
+            "name": "Loops",
+            "request": "launch",
+            "mainClass": "Loops",
+            "projectName": "JAVA_6d7bcd6f"
+        },
+        {
+            "type": "java",
+            "name": "MethodString",
+            "request": "launch",
+            "mainClass": "MethodString",
+            "projectName": "JAVA_6d7bcd6f"
+        },
+        {
+            "type": "java",
+            "name": "MultiDimensionalArray",
+            "request": "launch",
+            "mainClass": "MultiDimensionalArray",
+            "projectName": "JAVA_6d7bcd6f"
+        },
+        {
+            "type": "java",
+            "name": "Pattern",
+            "request": "launch",
+            "mainClass": "Pattern",
+            "projectName": "JAVA_6d7bcd6f"
+        },
+        {
+            "type": "java",
+            "name": "Practice_Loops",
+            "request": "launch",
+            "mainClass": "Questions.Practice_Loops",
+            "projectName": "JAVA_6d7bcd6f"
+        },
+        {
+            "type": "java",
+            "name": "QuestionArray",
+            "request": "launch",
+            "mainClass": "Questions.QuestionArray",
+            "projectName": "JAVA_6d7bcd6f"
+        },
+        {
+            "type": "java",
+            "name": "QuestionStrings",
+            "request": "launch",
+            "mainClass": "Questions.QuestionStrings",
+            "projectName": "JAVA_6d7bcd6f"
+        },
+        {
+            "type": "java",
+            "name": "Question_01",
+            "request": "launch",
+            "mainClass": "Questions.Question_01",
+            "projectName": "JAVA_6d7bcd6f"
+        },
+        {
+            "type": "java",
+            "name": "Question_02",
+            "request": "launch",
+            "mainClass": "Questions.Question_02",
+            "projectName": "JAVA_6d7bcd6f"
+        },
+        {
+            "type": "java",
+            "name": "Question_03",
+            "request": "launch",
+            "mainClass": "Questions.Question_03",
+            "projectName": "JAVA_6d7bcd6f"
+        },
+        {
+            "type": "java",
+            "name": "Question_04",
+            "request": "launch",
+            "mainClass": "Questions.Question_04",
+            "projectName": "JAVA_6d7bcd6f"
+        },
+        {
+            "type": "java",
+            "name": "Question_05",
+            "request": "launch",
+            "mainClass": "Questions.Question_05",
+            "projectName": "JAVA_6d7bcd6f"
+        },
+        {
+            "type": "java",
+            "name": "Question_06",
+            "request": "launch",
+            "mainClass": "Questions.Question_06",
+            "projectName": "JAVA_6d7bcd6f"
+        },
+        {
+            "type": "java",
+            "name": "Question_07",
+            "request": "launch",
+            "mainClass": "Questions.Question_07",
+            "projectName": "JAVA_6d7bcd6f"
+        },
+        {
+            "type": "java",
+            "name": "Question_08",
+            "request": "launch",
+            "mainClass": "Questions.Question_08",
+            "projectName": "JAVA_6d7bcd6f"
+        },
+        {
+            "type": "java",
+            "name": "RockPaperScissors",
+            "request": "launch",
+            "mainClass": "RockPaperScissors",
+            "projectName": "JAVA_6d7bcd6f"
+        }
+    ]
+}
