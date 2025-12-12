@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Loops",
+            "request": "launch",
+            "mainClass": "Loops",
+            "projectName": "JAVA_a6dd7d2b"
+        },
+        {
+            "type": "java",
             "name": "BankManagementSystem",
             "request": "launch",
             "mainClass": "BankManagementSystem",
